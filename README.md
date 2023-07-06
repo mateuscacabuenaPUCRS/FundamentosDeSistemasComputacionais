@@ -1,2 +1,6 @@
-# FundamentosDeSistemasComputacionais
-Nesta disciplina, é adquirido o conhecimento de conceitos e princípios que envolvem a organização interna de sistemas computacionais. Além disso, análise das arquiteturas dos processadores, memórias e dispositivos de entrada e saída, bem como o entendimento do funcionamento da arquitetura quanto à execução de programas.
+# Fundamentos De Sistemas Computacionais
+
+-  Professor: Sergio Johann
+-  Código: 	98800-04
+-  Semestre: 2022/2
+-  Nota: 7.6
